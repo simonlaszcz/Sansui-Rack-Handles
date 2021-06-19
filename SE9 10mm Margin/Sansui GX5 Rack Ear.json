@@ -1,0 +1,30 @@
+{
+    "parameterSets": {
+        "SE-9": {
+            "$fn": "50",
+            "case_bottom_screw_y": "110",
+            "case_faceplate_height": "140",
+            "case_faceplate_overhang_bottom": "3",
+            "case_faceplate_overhang_top": "0",
+            "case_faceplate_overhang_x": "1",
+            "case_faceplate_thickness": "2",
+            "case_furl_height": "10",
+            "case_furl_width": "15",
+            "case_screw_x": "22",
+            "case_side_margin": "10",
+            "case_top_screw_y": "30",
+            "ear_case_fixing_corner_radius": "4",
+            "ear_case_fixing_screw_plate_depth": "6",
+            "ear_case_fixing_width": "46",
+            "ear_rack_fixing_slot_length": "15",
+            "ear_rack_fixing_slot_pc_from_edge": "0.13",
+            "ear_rack_fixing_slot_width": "7",
+            "ear_rack_fixing_thickness": "5",
+            "ear_rack_fixing_width": "25",
+            "screw_hole_countersink_depth": "1",
+            "screw_hole_countersink_diameter": "14",
+            "screw_hole_diameter": "5"
+        }
+    },
+    "fileFormatVersion": "1"
+}
