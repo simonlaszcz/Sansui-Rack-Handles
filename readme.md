@@ -1,16 +1,11 @@
 ## Sansui GX-5 rack mounting ear model
-### Parameterised for use with multiple Sansui components
-#### 2021 - Simon Laszcz 
 
 ![render](/handle.png)
 
 ### DISCLAIMER
-1. This model has been made public in good faith, but:
 1. It has NOT been tested with a wide variety of components. It has been shown to work for the SE-9.
 1. Proportions and relative dimensions were taken from the handles to hand. The intention was to create a functional
 rack ear rather than an identical copy. The handle was ommited to reduce 3D printing cost.
-1. No responsibility will be accepted for printed ears that do not fit the intended component.
-1. No responsibility will be accepted for printed ears that break or fail to support the intended component.
 1. You should ensure that parameter measurements are accurate.
 1. You should visually inspect every aspect of the model before printing.
 1. Some parameters may be tweaked to reduce printing cost but the resulting strengh of the printed part must be considered.
