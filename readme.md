@@ -1,16 +1,6 @@
-```
- ____                             _     ____ __  __      ____
-/ ___|   __ _  _ __   ___  _   _ (_)   / ___|\ \/ /     | ___|
-\___ \  / _` || '_ \ / __|| | | || |  | |  _  \  / _____|___ \
- ___) || (_| || | | |\__ \| |_| || |  | |_| | /  \|_____|___) |
-|____/  \__,_||_| |_||___/ \__,_||_|   \____|/_/\_\     |____/
-```
-
-Sansui GX-5 rack mounting ear model
-
-Parameterised for use with multiple Sansui components
-
-2021 - Simon Laszcz 
+## Sansui GX-5 rack mounting ear model
+### Parameterised for use with multiple Sansui components
+#### 2021 - Simon Laszcz 
 
 ![render](/handle.png)
 
